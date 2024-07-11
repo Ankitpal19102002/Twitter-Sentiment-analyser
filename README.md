@@ -3,7 +3,7 @@
 ## Project Description
 
 This project aims to analyze the sentiment of tweets using Machine Learning techniques, specifically Logistic Regression. The sentiment analysis categorizes tweets into positive, negative, or neutral sentiments. This can be useful for understanding public opinion, monitoring social media, and improving customer service.
-
+<img align="left" width="100%" height="240" src="https://github.com/Ankitpal19102002/Ankitpal19102002/blob/4bb6389b8503ae6a6ef07f023db8fd7dc3e7f675/banner1.png" />
 ## Features
 
 - **Data Collection**: Fetch tweets using the Twitter API.
